@@ -1,0 +1,24 @@
+{
+  "name": "proyecto_ci_cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest\nnpx jest\nnpm pkg set scripts.test=jest\nnpm pkg set scripts.test=jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/straytg/Proyecto_CI_CD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/straytg/Proyecto_CI_CD/issues"
+  },
+  "homepage": "https://github.com/straytg/Proyecto_CI_CD#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
